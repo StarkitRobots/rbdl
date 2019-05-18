@@ -1,6 +1,6 @@
 {
-    "name": "rhobandeps/rbdl",
-    "deps": ["rhobandeps/eigen"],
+    "name": "StarkitRobots/rbdl",
+    "deps": ["StarkitRobots/eigen"],
     "includes": ["include", "build/include", "addons"],
     "links": ["build/librbdl.so", "build/addons/urdfreader/librbdl_urdfreader.so"],
     "build": [
